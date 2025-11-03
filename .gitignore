@@ -1,0 +1,10 @@
+# 忽略 raw_frames 文件夹及其所有内容
+raw_frames/
+
+# 忽略 datacap 文件夹及其所有内容
+datacap/
+
+# （可选）如果有其他不需要提交的文件，也可以一并添加，例如：
+# *.log  # 忽略所有 .log 后缀的文件
+# *.pyc  # 忽略 Python 编译文件（__pycache__ 通常也会自动忽略，但可显式添加）
+# __pycache__/
